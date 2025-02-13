@@ -1,10 +1,6 @@
 # SPAN_Delivery01
 LeagueRanker
 
-::::::::::::: Code Functionality and description ::::::::::::::::::::::::::::::::::::::::::::::
-
-
-
 :::::::::::::: Problem Statement & Instructions ::::::::::::::::::::::::::::::::::::::::::::::::
 
 Read the problem statement, code a working solution (valid input and output will be provided)
