@@ -1,0 +1,38 @@
+:::::::::::::::LeagueRanker Instructions:::::::::::::::::::::::::::::::::::::::
+
+***¿How to use LeagueRanker?***
+
+To start using LeagueRanker please capture he following information:
+
+1. Add how many teams participate in the league. Number value, limited to 8 groups.
+2. Add the name of each team. Character value, limited to 12 characters without spaces.("000" as a name is not available).
+3. Add how many games were held. Number value, size limit 10.
+4. Record the results of each game that has happened following the format bellow:
+Example:"Team1 2 Team2 0"
+
+***¿How LeagueRanker assign the place?***
+
+Please consider there are only 3 types of scores: 
+Win = 3 points.
+Draw (tie) = 1 Point
+Loss = 0 Points.
+Those points will be added and by the program.
+
+LeagueRanker will assign the higher (first place) to the team with more points. If there is a Draw LeagueRanker will assign the position by alphabetic order.
+
+***¿How I can see the results?***
+Run the program to see the results, press Enter once you have introduced all the data.
+
+***I made a mistake in the capture ¿How can I restart the program?***
+Please capture 000 in any step of the capture.
+
+***The characteristics of he program are no proper for me ¿What I can do?***
+If you require to change the characteristics, limits or value type of this program this needs to be ordered in a new "change request".
+
+Please contact: develop.nerialma@gmail.com to perform the request following the format:
+Subject - "LeagueRanker change request".
+Text - Please include: "Version used, change request description and delivery target".
+
+Thank you for using LeagueRanker.
+
+
