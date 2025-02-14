@@ -1,7 +1,7 @@
 # SPAN_Delivery01
 LeagueRanker
 
-:::::::::::::: Problem Statement & Instructions ::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::: Problem Statement & Instructions (Request) ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Read the problem statement, code a working solution (valid input and output will be provided)
 and write supporting tests. The solution should be written in one of the following languages:
