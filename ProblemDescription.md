@@ -23,7 +23,8 @@ The output should be ordered from most to least points, following the format spe
 In this league, a draw (tie) is worth 1 point and a win is worth 3 points. A loss is worth 0 points.
 If two or more teams have the same number of points, they should have the same rank and be
 printed in alphabetical order (as in the tie for 3rd place in the sample data).
-Guidelines
+
+***Guidelines***
 If you use libraries installed by a common package manager (e.g pip), it is not necessary to
 commit the installed packages.
 We write automated tests and we would like you to do so as well.
